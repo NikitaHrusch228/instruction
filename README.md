@@ -22,8 +22,8 @@ sudo apt-get update
 ```
 Дальше нужно экспортировать ключи (это тоже есть в инструкции). Пример:
 ```
-export AWS_ACCESS_KEY_ID=YCAJEmy3Jo8AsmYg2o6NE95mX
-export AWS_SECRET_ACCESS_KEY=YCMef7K6D2nopvDg-ZOJka1lJP0w_dXnenKH-Waz
+export AWS_ACCESS_KEY_ID=111111111111111111
+export AWS_SECRET_ACCESS_KEY=22222222222222222222222
 ```
 Дальше создаём директорию и хотим монтировать туда хранилище:
 ```
